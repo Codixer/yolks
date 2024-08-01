@@ -39,5 +39,5 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            ghcr.io/silly-development/apps:${{ matrix.app }}
-            ghcr.io/silly-development/apps:${{ matrix.app }}
+            ghcr.io/Codixer/apps:${{ matrix.app }}
+            ghcr.io/Codixer/apps:${{ matrix.app }}

@@ -36,5 +36,5 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/silly-development/yolks:wine_${{ matrix.tag }}
-            ghcr.io/silly-development/yolks:wine_${{ matrix.tag }}
+            ghcr.io/Codixer/yolks:wine_${{ matrix.tag }}
+            ghcr.io/Codixer/yolks:wine_${{ matrix.tag }}
