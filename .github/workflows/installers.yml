@@ -37,5 +37,5 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            ghcr.io/Codixer/installers:${{ matrix.tag }}
-            ghcr.io/Codixer/installers:${{ matrix.tag }}
+            ghcr.io/codixer/installers:${{ matrix.tag }}
+            ghcr.io/codixer/installers:${{ matrix.tag }}

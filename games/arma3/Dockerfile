@@ -2,7 +2,7 @@ FROM        --platform=$TARGETOS/$TARGETARCH debian:bullseye-slim
 
 LABEL       author="Silly Development" maintainer="gamer@sillydev.co.uk"
 
-LABEL       org.opencontainers.image.source="https://github.com/Codixer/yolks"
+LABEL       org.opencontainers.image.source="https://github.com/codixer/yolks"
 LABEL       org.opencontainers.image.licenses=MIT
 
 ## Update base packages and install dependencies

@@ -39,5 +39,5 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/Codixer/steamcmd:${{ matrix.distro }}
-            ghcr.io/Codixer/steamcmd:${{ matrix.distro }}
+            ghcr.io/codixer/steamcmd:${{ matrix.distro }}
+            ghcr.io/codixer/steamcmd:${{ matrix.distro }}

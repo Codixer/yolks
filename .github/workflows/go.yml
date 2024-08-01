@@ -42,5 +42,5 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/Codixer/yolks:go_${{ matrix.tag }}
-            ghcr.io/Codixer/yolks:go_${{ matrix.tag }}
+            ghcr.io/codixer/yolks:go_${{ matrix.tag }}
+            ghcr.io/codixer/yolks:go_${{ matrix.tag }}

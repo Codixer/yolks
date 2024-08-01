@@ -50,8 +50,8 @@ jobs:
           cache-to: type=local,dest=/tmp/.buildx-cache-new
           push: true
           tags: |
-            ghcr.io/Codixer/yolks:bot_${{ matrix.tag }}
-            ghcr.io/Codixer/yolks:bot_${{ matrix.tag }}
+            ghcr.io/codixer/yolks:bot_${{ matrix.tag }}
+            ghcr.io/codixer/yolks:bot_${{ matrix.tag }}
       - name: Move cache
         run: |
           rm -rf /tmp/.buildx-cache
@@ -83,4 +83,4 @@ jobs:
   #         platforms: linux/amd64
   #         push: true
   #         tags: |
-  #           ghcr.io/Codixer/yolks:bot_${{ matrix.tag }}
+  #           ghcr.io/codixer/yolks:bot_${{ matrix.tag }}

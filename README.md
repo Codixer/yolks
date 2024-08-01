@@ -29,286 +29,286 @@ is tagged correctly.
 ### [Oses](/oses)
 
 * [alpine](/oses/alpine)
-  * `ghcr.io/Codixer/yolks:alpine`
+  * `ghcr.io/codixer/yolks:alpine`
 * [debian](/oses/debian)
   * `ghcr.io/parkervcp/yolks:debian`
 * [ubuntu](/oses/ubuntu)
-  * `ghcr.io/Codixer/yolks:ubuntu`
+  * `ghcr.io/codixer/yolks:ubuntu`
 
 ### [Apps](/apps)
 
 * [`uptimekuma`](/apps/uptimekuma)
-  * `ghcr.io/Codixer/yolks:apps_uptimekuma`
+  * `ghcr.io/codixer/yolks:apps_uptimekuma`
 
 ### [Bot](/bot)
 
 * [`bastion`](/bot/bastion)
-  * `ghcr.io/Codixer/yolks:bot_bastion`
+  * `ghcr.io/codixer/yolks:bot_bastion`
 * [`parkertron`](/bot/parkertron)
-  * `ghcr.io/Codixer/yolks:bot_parkertron`
+  * `ghcr.io/codixer/yolks:bot_parkertron`
 * [`redbot`](/bot/red)
-  * `ghcr.io/Codixer/yolks:bot_red`
+  * `ghcr.io/codixer/yolks:bot_red`
 * [`sinusbot`](/bot/sinusbot)
-  * `ghcr.io/Codixer/yolks:bot_sinusbot`
+  * `ghcr.io/codixer/yolks:bot_sinusbot`
 
 ### [Box64](/box64)
 
 * [`Box64`](/box64)
-  * `ghcr.io/Codixer/yolks:box64`
+  * `ghcr.io/codixer/yolks:box64`
 
 ### [Bun](/bun)
 
 * [`Bun Canary`](/bun/canary)
-  * `ghcr.io/Codixer/yolks:bun_canary`
+  * `ghcr.io/codixer/yolks:bun_canary`
 * [`Bun Latest`](/bun/latest)
-  * `ghcr.io/Codixer/yolks:bun_latest`
+  * `ghcr.io/codixer/yolks:bun_latest`
 
 ### [Cassandra](/cassandra)
 
 * [`cassandra_java8_python27`](/cassandra/cassandra_java8_python2)
-  * `ghcr.io/Codixer/yolks:cassandra_java11_python2`
+  * `ghcr.io/codixer/yolks:cassandra_java11_python2`
 * [`cassandra_java11_python3`](/cassandra/cassandra_java11_python3)
-  * `ghcr.io/Codixer/yolks:cassandra_java11_python3`
+  * `ghcr.io/codixer/yolks:cassandra_java11_python3`
 
 ### [Dart](/dart)
 
 * [`dart2.17`](/dart/2.17)
-  * `ghcr.io/Codixer/yolks:dart_2.17`
+  * `ghcr.io/codixer/yolks:dart_2.17`
 * [`dart2.18`](/dart/2.18)
-  * `ghcr.io/Codixer/yolks:dart_2.18`
+  * `ghcr.io/codixer/yolks:dart_2.18`
 * [`dart2.19`](/dart/2.19)
-  * `ghcr.io/Codixer/yolks:dart_2.19`
+  * `ghcr.io/codixer/yolks:dart_2.19`
 * [`dart3.3`](/dart/3.3)
-  * `ghcr.io/Codixer/yolks:dart_3.3`
+  * `ghcr.io/codixer/yolks:dart_3.3`
 * [`dart stable`](/dart/stable)
-  * `ghcr.io/Codixer/yolks:dart_stable`
+  * `ghcr.io/codixer/yolks:dart_stable`
 
 ### [dotNet](/dotnet)
 
 * [`dotnet2.1`](/dotnet/2.1)
-  * `ghcr.io/Codixer/yolks:dotnet_2.1`
+  * `ghcr.io/codixer/yolks:dotnet_2.1`
 * [`dotnet3.1`](/dotnet/3.1)
-  * `ghcr.io/Codixer/yolks:dotnet_3.1`
+  * `ghcr.io/codixer/yolks:dotnet_3.1`
 * [`dotnet5.0`](/dotnet/5)
-  * `ghcr.io/Codixer/yolks:dotnet_5`
+  * `ghcr.io/codixer/yolks:dotnet_5`
 * [`dotnet6.0`](/dotnet/6)
-  * `ghcr.io/Codixer/yolks:dotnet_6`
+  * `ghcr.io/codixer/yolks:dotnet_6`
 * [`dotnet7.0`](/dotnet/7)
-  * `ghcr.io/Codixer/yolks:dotnet_7`
+  * `ghcr.io/codixer/yolks:dotnet_7`
 * [`dotnet8.0`](/dotnet/8)
-  * `ghcr.io/Codixer/yolks:dotnet_8`
+  * `ghcr.io/codixer/yolks:dotnet_8`
 
 ### [Elixir](/elixir)
 
 * [`elixir 1.12`](/elixir/1.12)
-  * `ghcr.io/Codixer/yolks:elixir_1.12`
+  * `ghcr.io/codixer/yolks:elixir_1.12`
 * [`elixir 1.13`](/elixir/1.13)
-  * `ghcr.io/Codixer/yolks:elixir_1.13`
+  * `ghcr.io/codixer/yolks:elixir_1.13`
 * [`elixir 1.14`](/elixir/1.14)
-  * `ghcr.io/Codixer/yolks:elixir_1.14`
+  * `ghcr.io/codixer/yolks:elixir_1.14`
 * [`elixir 1.15`](/elixir/1.12)
-  * `ghcr.io/Codixer/yolks:elixir_1.15`
+  * `ghcr.io/codixer/yolks:elixir_1.15`
 * [`elixir latest`](/elixir/latest)
-  * `ghcr.io/Codixer/yolks:elixir_latest`
+  * `ghcr.io/codixer/yolks:elixir_latest`
 
 ### [Erlang](/erlang)
 
 * [`erlang22`](/erlang/22)
-  * `ghcr.io/Codixer/yolks:erlang_22`
+  * `ghcr.io/codixer/yolks:erlang_22`
 * [`erlang23`](/erlang/23)
-  * `ghcr.io/Codixer/yolks:erlang_23`
+  * `ghcr.io/codixer/yolks:erlang_23`
 * [`erlang24`](/erlang/24)
-  * `ghcr.io/Codixer/yolks:erlang_24`
+  * `ghcr.io/codixer/yolks:erlang_24`
 
 ### [Games](/games)
 
 * [`altv`](/games/altv)
-  * `ghcr.io/Codixer/games:altv`
+  * `ghcr.io/codixer/games:altv`
 * [`arma3`](/games/arma3)
-  * `ghcr.io/Codixer/games:arma3`
+  * `ghcr.io/codixer/games:arma3`
 * [`dayz`](/games/dayz)
-  * `ghcr.io/Codixer/games:dayz`
+  * `ghcr.io/codixer/games:dayz`
 * [`minetest`](/games/minetest)
-  * `ghcr.io/Codixer/games:minetest`  
+  * `ghcr.io/codixer/games:minetest`  
 * [`mohaa`](games/mohaa)
   * `ghcr.io/pterodactyl/games:mohaa`  
 * [`Multi Theft Auto: San Andreas`](games/mta)
   * `ghcr.io/pterodactyl/games:mta`    
 * [`samp`](/games/samp)
-  * `ghcr.io/Codixer/games:samp`  
+  * `ghcr.io/codixer/games:samp`  
 * [`source`](/games/source)
-  * `ghcr.io/Codixer/games:source`
+  * `ghcr.io/codixer/games:source`
 * [`thebattleforwesnoth`](/games/thebattleforwesnoth)
-  * `ghcr.io/Codixer/games:thebattleforwesnoth`
+  * `ghcr.io/codixer/games:thebattleforwesnoth`
 * [`valheim`](/games/valheim)
-  * `ghcr.io/Codixer/games:valheim`
+  * `ghcr.io/codixer/games:valheim`
 
 ### [Golang](/go)
 
 * [`go1.14`](/go/1.14)
-  * `ghcr.io/Codixer/yolks:go_1.14`
+  * `ghcr.io/codixer/yolks:go_1.14`
 * [`go1.15`](/go/1.15)
-  * `ghcr.io/Codixer/yolks:go_1.15`
+  * `ghcr.io/codixer/yolks:go_1.15`
 * [`go1.16`](/go/1.16)
-  * `ghcr.io/Codixer/yolks:go_1.16`
+  * `ghcr.io/codixer/yolks:go_1.16`
 * [`go1.17`](/go/1.17)
-  * `ghcr.io/Codixer/yolks:go_1.17`
+  * `ghcr.io/codixer/yolks:go_1.17`
 * [`go1.18`](/go/1.18)
-  * `ghcr.io/Codixer/yolks:go_1.18`
+  * `ghcr.io/codixer/yolks:go_1.18`
 * [`go1.19`](/go/1.19)
-  * `ghcr.io/Codixer/yolks:go_1.19`
+  * `ghcr.io/codixer/yolks:go_1.19`
 * [`go1.20`](/go/1.20)
-  * `ghcr.io/Codixer/yolks:go_1.20`
+  * `ghcr.io/codixer/yolks:go_1.20`
 * [`go1.21`](/go/1.21)
-  * `ghcr.io/Codixer/yolks:go_1.21`
+  * `ghcr.io/codixer/yolks:go_1.21`
 * [`go1.22`](/go/1.22)
-  * `ghcr.io/Codixer/yolks:go_1.22`
+  * `ghcr.io/codixer/yolks:go_1.22`
 
 ### [Java](/java)
 
 * [`java8`](/java/8)
-  * `ghcr.io/Codixer/yolks:java_8`
+  * `ghcr.io/codixer/yolks:java_8`
 * [`java11`](/java/11)
-  * `ghcr.io/Codixer/yolks:java_11`
+  * `ghcr.io/codixer/yolks:java_11`
 * [`java16`](/java/16)
-  * `ghcr.io/Codixer/yolks:java_16`
+  * `ghcr.io/codixer/yolks:java_16`
 * [`java17`](/java/17)
-  * `ghcr.io/Codixer/yolks:java_17`
+  * `ghcr.io/codixer/yolks:java_17`
 * [`java19`](/java/19)
-  * `ghcr.io/Codixer/yolks:java_19`
+  * `ghcr.io/codixer/yolks:java_19`
 * [`java21`](/java/21)
-  * `ghcr.io/Codixer/yolks:java_21`
+  * `ghcr.io/codixer/yolks:java_21`
 
 ### [MariaDB](/mariadb)
 
   * [`MariaDB 10.3`](/mariadb/10.3)
-    * `ghcr.io/Codixer/yolks:mariadb_10.3`
+    * `ghcr.io/codixer/yolks:mariadb_10.3`
   * [`MariaDB 10.4`](/mariadb/10.4)
-    * `ghcr.io/Codixer/yolks:mariadb_10.4`
+    * `ghcr.io/codixer/yolks:mariadb_10.4`
   * [`MariaDB 10.5`](/mariadb/10.5)
-    * `ghcr.io/Codixer/yolks:mariadb_10.5`
+    * `ghcr.io/codixer/yolks:mariadb_10.5`
   * [`MariaDB 10.6`](/mariadb/10.6)
-    * `ghcr.io/Codixer/yolks:mariadb_10.6`
+    * `ghcr.io/codixer/yolks:mariadb_10.6`
   * [`MariaDB 10.7`](/mariadb/10.7)
-    * `ghcr.io/Codixer/yolks:mariadb_10.7`
+    * `ghcr.io/codixer/yolks:mariadb_10.7`
   * [`MariaDB 11.2`](/mariadb/11.2)
-    * `ghcr.io/Codixer/yolks:mariadb_11.2`
+    * `ghcr.io/codixer/yolks:mariadb_11.2`
   * [`MariaDB 11.3`](/mariadb/11.3)
-    * `ghcr.io/Codixer/yolks:mariadb_11.3`
+    * `ghcr.io/codixer/yolks:mariadb_11.3`
 
 ### [MongoDB](/mongodb)
 
   * [`MongoDB 5`](/mongodb/5)
-    * `ghcr.io/Codixer/yolks:mongodb_5`
+    * `ghcr.io/codixer/yolks:mongodb_5`
  * [`MongoDB 6`](/mongodb/6)
-    * `ghcr.io/Codixer/yolks:mongodb_6`    
+    * `ghcr.io/codixer/yolks:mongodb_6`    
  * [`MongoDB 7`](/mongodb/7)
-    * `ghcr.io/Codixer/yolks:mongodb_7`
+    * `ghcr.io/codixer/yolks:mongodb_7`
 
 ### [Mono](/mono)
 
 * [`mono_latest`](/mono/latest)
-  * `ghcr.io/Codixer/yolks:mono_latest`
+  * `ghcr.io/codixer/yolks:mono_latest`
 
 ### [Nodejs](/nodejs)
 
 * [`node12`](/nodejs/12)
-  * `ghcr.io/Codixer/yolks:nodejs_12`
+  * `ghcr.io/codixer/yolks:nodejs_12`
 * [`node14`](/nodejs/14)
-  * `ghcr.io/Codixer/yolks:nodejs_14`
+  * `ghcr.io/codixer/yolks:nodejs_14`
 * [`node16`](/nodejs/16)
-  * `ghcr.io/Codixer/yolks:nodejs_16`
+  * `ghcr.io/codixer/yolks:nodejs_16`
 * [`node17`](/nodejs/17)
-  * `ghcr.io/Codixer/yolks:nodejs_17`
+  * `ghcr.io/codixer/yolks:nodejs_17`
 * [`node18`](/nodejs/18)
-  * `ghcr.io/Codixer/yolks:nodejs_18`
+  * `ghcr.io/codixer/yolks:nodejs_18`
 * [`node19`](/nodejs/19)
-  * `ghcr.io/Codixer/yolks:nodejs_19`
+  * `ghcr.io/codixer/yolks:nodejs_19`
 * [`node20`](/nodejs/20)
-  * `ghcr.io/Codixer/yolks:nodejs_20`
+  * `ghcr.io/codixer/yolks:nodejs_20`
 * [`node21`](/nodejs/21)
-  * `ghcr.io/Codixer/yolks:nodejs_21`
+  * `ghcr.io/codixer/yolks:nodejs_21`
 
 ### [PostgreSQL](/postgres)
 
   * [`Postgres 9`](/postgres/9)
-    * `ghcr.io/Codixer/yolks:postgres_9`
+    * `ghcr.io/codixer/yolks:postgres_9`
   * [`Postgres 10`](/postgres/10)
-    * `ghcr.io/Codixer/yolks:postgres_10`
+    * `ghcr.io/codixer/yolks:postgres_10`
   * [`Postgres 11`](/postgres/11)
-    * `ghcr.io/Codixer/yolks:postgres_11`
+    * `ghcr.io/codixer/yolks:postgres_11`
   * [`Postgres 12`](/postgres/12)
-    * `ghcr.io/Codixer/yolks:postgres_12`
+    * `ghcr.io/codixer/yolks:postgres_12`
   * [`Postgres 13`](/postgres/13)
-    * `ghcr.io/Codixer/yolks:postgres_13`
+    * `ghcr.io/codixer/yolks:postgres_13`
   * [`Postgres 14`](/postgres/14)
-    * `ghcr.io/Codixer/yolks:postgres_14`  
+    * `ghcr.io/codixer/yolks:postgres_14`  
 
 ### [Python](/python)
 
 * [`python3.7`](/python/3.7)
-  * `ghcr.io/Codixer/yolks:python_3.7`
+  * `ghcr.io/codixer/yolks:python_3.7`
 * [`python3.8`](/python/3.8)
-  * `ghcr.io/Codixer/yolks:python_3.8`
+  * `ghcr.io/codixer/yolks:python_3.8`
 * [`python3.9`](/python/3.9)
-  * `ghcr.io/Codixer/yolks:python_3.9`
+  * `ghcr.io/codixer/yolks:python_3.9`
 * [`python3.10`](/python/3.10)
-  * `ghcr.io/Codixer/yolks:python_3.10`
+  * `ghcr.io/codixer/yolks:python_3.10`
 * [`python3.11`](/python/3.11)
-  * `ghcr.io/Codixer/yolks:python_3.11`
+  * `ghcr.io/codixer/yolks:python_3.11`
 * [`python3.12`](/python/3.12)
-  * `ghcr.io/Codixer/yolks:python_3.12`
+  * `ghcr.io/codixer/yolks:python_3.12`
 
 ### [Redis](/redis)
 
   * [`Redis 5`](/redis/5)
-    * `ghcr.io/Codixer/yolks:redis_5`
+    * `ghcr.io/codixer/yolks:redis_5`
   * [`Redis 6`](/redis/6)
-    * `ghcr.io/Codixer/yolks:redis_6`
+    * `ghcr.io/codixer/yolks:redis_6`
   * [`Redis 7`](/redis/7)
-    * `ghcr.io/Codixer/yolks:redis_7`
+    * `ghcr.io/codixer/yolks:redis_7`
 
 ### [Rust](/rust)
 
 * ['rust1.56'](/rust/1.56)
-  * `ghcr.io/Codixer/yolks:rust_1.56`
+  * `ghcr.io/codixer/yolks:rust_1.56`
 * ['rust1.60'](/rust/1.60)
-  * `ghcr.io/Codixer/yolks:rust_1.60`
+  * `ghcr.io/codixer/yolks:rust_1.60`
 * ['rust latest'](/rust/latest)
-  * `ghcr.io/Codixer/yolks:rust_latest`
+  * `ghcr.io/codixer/yolks:rust_latest`
 
 ### [SteamCMD](/steamcmd)
 * [`SteamCMD Debian lastest`](/steamcmd/debian)
-  * `ghcr.io/Codixer/steamcmd:debian`
+  * `ghcr.io/codixer/steamcmd:debian`
 * [`SteamCMD Debian Dotnet`](/steamcmd/dotnet)
-  * `ghcr.io/Codixer/steamcmd:dotnet`
+  * `ghcr.io/codixer/steamcmd:dotnet`
 * [`SteamCMD Proton`](/steamcmd/proton)
-  * `ghcr.io/Codixer/steamcmd:proton`
+  * `ghcr.io/codixer/steamcmd:proton`
 * [`SteamCMD Proton`](/steamcmd/proton_8)
-  * `ghcr.io/Codixer/steamcmd:proton_8`
+  * `ghcr.io/codixer/steamcmd:proton_8`
 * [`SteamCMD Sniper latest`](/steamcmd/sniper)
-  * `ghcr.io/Codixer/steamcmd:sniper`
+  * `ghcr.io/codixer/steamcmd:sniper`
 * [`SteamCMD Ubuntu latest LTS`](/steamcmd/ubuntu)
-  * `ghcr.io/Codixer/steamcmd:ubuntu`
+  * `ghcr.io/codixer/steamcmd:ubuntu`
 
 ### [Voice](/voice)
 * [`Mumble`](/voice/mumble)
-  * `ghcr.io/Codixer/yolks:voice_mumble`
+  * `ghcr.io/codixer/yolks:voice_mumble`
 * [`TeaSpeak`](/voice/teaspeak)
-  * `ghcr.io/Codixer/yolks:voice_teaspeak`
+  * `ghcr.io/codixer/yolks:voice_teaspeak`
 
 ### [Wine](/wine)
 
 * [`Wine`](/wine)
-  * `ghcr.io/Codixer/yolks:wine_latest`
-  * `ghcr.io/Codixer/yolks:wine_devel`
-  * `ghcr.io/Codixer/yolks:wine_staging`
+  * `ghcr.io/codixer/yolks:wine_latest`
+  * `ghcr.io/codixer/yolks:wine_devel`
+  * `ghcr.io/codixer/yolks:wine_staging`
 
 ### [Installation Images](/installers)
 
 * [`alpine-install`](/installers/alpine)
-  * `ghcr.io/Codixer/installers:alpine`
+  * `ghcr.io/codixer/installers:alpine`
 * [`debian-install`](/installers/debian)
-  * `ghcr.io/Codixer/installers:debian`
+  * `ghcr.io/codixer/installers:debian`
 * [`ubuntu-install`](/installers/ubuntu)
-  * `ghcr.io/Codixer/installers:ubuntu`
+  * `ghcr.io/codixer/installers:ubuntu`
